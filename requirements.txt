@@ -1,0 +1,2 @@
+instagrapi==2.1.2
+Requests==2.32.3
